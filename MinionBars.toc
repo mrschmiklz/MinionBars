@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: MinionBars
+## Notes: Health bars for all your undead minions - true pet and combat-log-tracked summons.
+## Author: mrschmiklz
+## Version: 1.8
+## SavedVariablesPerCharacter: MinionBarsDB
+
+MinionBars.lua
