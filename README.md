@@ -44,6 +44,16 @@ via the combat log and nameplates.
 
 Turn nameplates on (**V**) for best health tracking on summons without a unit token.
 
+## Known quirks
+
+This addon works around a real client limitation — only the main pet gets a
+proper unit token, so everything else is inferred from combat log events and
+nameplates. That means it **can be a little buggy sometimes**: duplicate
+minion names may swap bar values, stale entries can linger briefly, or health
+may show as `?` until a nameplate appears. **`/mb reset`** usually clears
+weird state. Despite the rough edges, it **generally works** well enough for
+day-to-day grinding.
+
 ## Compatibility
 
 - **Game:** World of Warcraft — Wrath of the Lich King (3.3.5a)
