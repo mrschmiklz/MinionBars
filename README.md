@@ -5,6 +5,8 @@ Lich King** (patch 3.3.5). Built for multi-summon classes (e.g. necromancers)
 where only the primary pet gets a real unit token — extra summons are tracked
 via the combat log and nameplates.
 
+![MinionBars in action](minions.png)
+
 ## Features
 
 - Health bar per minion, main pet first, stable row order
